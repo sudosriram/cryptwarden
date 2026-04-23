@@ -24,7 +24,7 @@ sudo apt install build-essential cmake libssl-dev
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cryptwarden.git
+git clone https://github.com/sudosriram/cryptwarden.git
 cd cryptwarden
 
 # Create build directory
